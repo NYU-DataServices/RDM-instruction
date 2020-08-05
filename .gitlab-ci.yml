@@ -1,0 +1,18 @@
+image: rocker/tidyverse:4.0.0
+
+pages:
+  stage: deploy
+  script:
+    - apt-get -y update
+    - apt-get -y install wget
+    - apt-get -y install pandoc
+    - apt-get -y install pandoc-citeproc
+    - Rscript -e "install.packages(c('rmarkdown', 'bookdownplus', 'tinytex', 'webshot', 'knitr', 'kableExtra', 'ggpubr', 'stringr'))"
+    - Rscript -e "tinytex::install_tinytex()"
+    - Rscript -e "webshot::install_phantomjs()"
+    - Rscript -e "bookdown::render_book('index.Rmd', 'all', output_dir = 'public')"
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

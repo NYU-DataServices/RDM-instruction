@@ -1,0 +1,31 @@
+--- 
+title: "RDM Instructional Materials"
+author: "Vicky Steeves and Nicholas Wolf"
+date: "`r Sys.Date()`"
+description: "OER for data management learning at NYU"
+site: bookdown::bookdown_site
+colorlinks: yes
+favicon: imgs/favicon.ico
+documentclass: book
+always_allow_html: yes
+output:
+  bookdown::gitbook
+    css: [style.css]
+    config:
+      toc:
+        after: |
+          <p><a href="https://gitlab.com/RLesur/bookdown-gitlab-pages" target="blank">Published with bookdown &amp; GitLab</a></p>
+          <p>Original content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+          <p>Any questions, contact: <a href="mailto:vicky.steeves@nyu.edu">vicky.steeves@nyu.edu</a></p>
+      edit: https://gitlab.com/nyu-dataservices/rdm-instruction/edit/master/%s
+      search: yes
+      download: ["pdf", "epub"]
+      sharing: null
+  bookdown::pdf_book:
+    latex_engine: xelatex
+  bookdown::epub_book: default
+---
+
+# Welcome {-}
+
+Give some introduction to this book.
