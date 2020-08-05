@@ -13,6 +13,8 @@ output:
     css: [style.css]
     config:
       toc:
+        before: |
+          <p>NYU Data Services RDM</p>
         after: |
           <p><a href="https://gitlab.com/RLesur/bookdown-gitlab-pages" target="blank">Published with bookdown &amp; GitLab</a></p>
           <p>Original content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
