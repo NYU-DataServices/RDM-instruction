@@ -1,7 +1,13 @@
-# Overview {-}
+# Introduction {-}
 
 ```{r install_dep}
 # add any dependencies we come across
 ```
 
-## Subheading {-}
+## About the authors {-}
+
+
+## How to read this book {-}
+
+
+## How to do the exercises {-}

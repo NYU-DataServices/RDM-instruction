@@ -1,0 +1,26 @@
+# Project management & collaboration {-}
+
+
+## Considerations to start {-}
+
+
+## Open Science Framework {-}
+
+
+## Version control for code {-}
+
+
+### Git {-}
+
+
+### GitLab {-}
+
+
+### GitHub {-}
+
+
+### Collaboration best practices with Git {-}
+
+
+### Code licenses {-}
+

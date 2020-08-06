@@ -1,20 +1,20 @@
 --- 
-title: "RDM Instructional Materials"
-author: "Vicky Steeves and Nicholas Wolf"
+title: "Data Management How-To's"
+author: "Vicky Steeves and Nick Wolf"
 date: "`r Sys.Date()`"
-description: "OER for data management learning at NYU"
+description: "Open educational resources for learning data management best practices"
 site: bookdown::bookdown_site
 colorlinks: yes
-favicon: imgs/favicon.ico
 documentclass: book
 always_allow_html: yes
 output:
-  bookdown::gitbook
+  bookdown::gitbook:
     css: [style.css]
     config:
       toc:
         before: |
-          <p>NYU Data Services RDM</p>
+          <p>Data Management How-To's</p>
+          <p>NYU Data Services</p>
         after: |
           <p><a href="https://gitlab.com/RLesur/bookdown-gitlab-pages" target="blank">Published with bookdown &amp; GitLab</a></p>
           <p>Original content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>

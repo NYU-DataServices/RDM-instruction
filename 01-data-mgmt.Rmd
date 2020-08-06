@@ -1,0 +1,27 @@
+# Data management first steps {-}
+
+Some good habits to start out with ~
+
+## Principles of efficient data management {-}
+
+
+## Directory structure {-}
+
+
+### Zotero for file management {-}
+
+
+## File naming {-}
+
+
+## File format selection {-}
+
+
+## Storage & backup {-}
+
+
+## Documentation {-}
+
+
+## Version control for not-code {-}
+
