@@ -31,3 +31,27 @@ output:
 # Welcome {-}
 
 Give some introduction to this book.
+
+# Task list {-}
+
+Checklist for Nick:
+
+- [ ] write the welcome paragraph on this page
+- [ ] [put a pic and a short bio on the authors page](introduction.html#about-the-authors)
+- [ ] [how to read this book](introduction.html#how-to-read-this-book)
+- [ ] [directory structure + zotero for file mgmt](data-management-first-steps.html#directory-structure)
+- [ ] [documentation](data-management-first-steps.html#file-naming)
+- [ ] [data processing chapter](data-processing.html)
+- [ ] [grant chapter](grant-applications.html)
+
+Checklist for Vicky: 
+
+* [ ] [how to do the exercises](introduction.html#how-to-do-the-exercises)
+* [ ] [put a pic and a short bio on the authors page](introduction.html#about-the-authors)
+* [ ] [principles of rdm](data-management-first-steps.html#principles-of-efficient-data-management)
+* [ ] [file naming](data-management-first-steps.html#file-naming)
+* [ ] [file format selection](data-management-first-steps.html#file-format-selection)
+* [ ] [storage and backup](data-management-first-steps.html#storage-backup)
+* [ ] [version control for not code](data-management-first-steps.html#version-control-for-not-code)
+* [ ] [project management and collab chapter](project-management-collaboration.html)
+
