@@ -21,7 +21,7 @@ You can also click Tools > Install Packages and type the package names (make sur
 6. Go to the folder `_book` in the project folder and click `index.html` to view the book locally in your browser.
                                          
 ## Contribute!
-If you'd like to contribute, that would be amazing! We will try our best to be on top of pull requests and issues. Beforey you start, please refer to our [contributing guide](CONTRIBUTING.md). 
+If you'd like to contribute, that would be amazing! We will try our best to be on top of pull requests and issues. Before you start, please refer to our [contributing guide](CONTRIBUTING.md). 
 
 ## Contact info
 You are welcome to email me at [vicky dot steeves at nyu dot edu](mailto:vicky.steeves@nyu.edu) if you have questions or concerns, or raise an issue on this repository and I will do my best to respond quickly!

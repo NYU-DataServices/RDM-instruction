@@ -1,5 +1,5 @@
 --- 
-title: "Data Management How-To's"
+title: "NYU Research Data Management Class Materials"
 author: "Vicky Steeves and Nick Wolf"
 date: "`r Sys.Date()`"
 description: "Open educational resources for learning data management best practices"
@@ -13,7 +13,7 @@ output:
     config:
       toc:
         before: |
-          <p>Data Management How-To's</p>
+          <p>RDM Class Materials</p>
           <p>NYU Data Services</p>
         after: |
           <p><a href="https://gitlab.com/RLesur/bookdown-gitlab-pages" target="blank">Published with bookdown &amp; GitLab</a></p>
@@ -36,22 +36,20 @@ Give some introduction to this book.
 
 Checklist for Nick:
 
-- [ ] write the welcome paragraph on this page
-- [ ] [put a pic and a short bio on the authors page](introduction.html#about-the-authors)
-- [ ] [how to read this book](introduction.html#how-to-read-this-book)
-- [ ] [directory structure + zotero for file mgmt](data-management-first-steps.html#directory-structure)
-- [ ] [documentation](data-management-first-steps.html#file-naming)
-- [ ] [data processing chapter](data-processing.html)
-- [ ] [grant chapter](grant-applications.html)
+- [ ] [Managing a research archive](01-mgmt-rsrch-archive.Rmd)
+- [ ] [OpenRefine](02-openrefine.Rmd)
+- [ ] [ABBYY](03-abbyy.Rmd)
+- [ ] [Jupyter Notebooks](04-jupyter.Rmd)
 
 Checklist for Vicky: 
 
-* [ ] [how to do the exercises](introduction.html#how-to-do-the-exercises)
-* [ ] [put a pic and a short bio on the authors page](introduction.html#about-the-authors)
-* [ ] [principles of rdm](data-management-first-steps.html#principles-of-efficient-data-management)
-* [ ] [file naming](data-management-first-steps.html#file-naming)
-* [ ] [file format selection](data-management-first-steps.html#file-format-selection)
-* [ ] [storage and backup](data-management-first-steps.html#storage-backup)
-* [ ] [version control for not code](data-management-first-steps.html#version-control-for-not-code)
-* [ ] [project management and collab chapter](project-management-collaboration.html)
+- [ ] [Intro RDM](00-intro-rdm.Rmd)
+- [ ] [Git/GH](05-git.Rmd)
+- [ ] [Intro OSF](06-osf.Rmd)
+- [ ] [Intro DMP](07-dmp.Rmd)
 
+# Install Dependencies {-}
+
+```{r install_dep}
+# add any dependencies we come across
+```
