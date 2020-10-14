@@ -2,7 +2,7 @@
 
 If you'd like to contribute, that would be amazing! I will try my best to be on top of merge requests and issues. If you aren't comfortable with coding or Git, you can email me ([vicky dot steeves at nyu dot edu](mailto:vicky.steeves@nyu.edu)) changes you'd like to see and I will open an issue for you or, if it's quick enough, make the change and give you attribution on this README.
 
-Here are some general instructions to help -- the following was adapted from [ProjectPorcupine's](https://github.com/TeamPorcupine/ProjectPorcupine)'s [CONTRIBUTING.md](https://github.com/TeamPorcupine/ProjectPorcupine/blob/master/CONTRIBUTING.md).
+Here are some general instructions to help -- the following was adapted from [ProjectPorcupine's](https://github.com/TeamPorcupine/ProjectPorcupine)'s [CONTRIBUTING.md](https://github.com/TeamPorcupine/ProjectPorcupine/blob/main/CONTRIBUTING.md).
 
 Pease follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project. If you would like to contribute to this project by modifying/adding to the code or data, please feel free to follow the standard GitHub workflow:
 
@@ -32,10 +32,10 @@ Pease follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions 
  * `git add <FILE-NAMES>`
  * `git commit -m "A descriptive commit message"`
 
-8. While you were working some other changes might have gone in and break your stuff or vice versa. This can be a *merge conflict* but also conflicting behavior or code. Before you test, merge with master.
+8. While you were working some other changes might have gone in and break your stuff or vice versa. This can be a *merge conflict* but also conflicting behavior or code. Before you test, merge with main.
 
  * `git fetch upstream`
- * `git merge upstream/master`
+ * `git merge upstream/main`
 
 9. Test. Run the program and do something related to your feature/fix.
 10. Push the branch, uploading it to GitHub.
