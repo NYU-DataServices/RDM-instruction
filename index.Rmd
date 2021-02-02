@@ -1,6 +1,6 @@
 --- 
 title: "NYU Research Data Management Class Materials"
-author: "Vicky Steeves and Nick Wolf"
+author: "Vicky Rampin and Nick Wolf"
 date: "`r Sys.Date()`"
 description: "Open educational resources for learning data management best practices"
 site: bookdown::bookdown_site
@@ -44,7 +44,7 @@ Checklist for Nick:
 Checklist for Vicky: 
 
 - [ ] [Intro RDM](00-intro-rdm.Rmd)
-- [ ] [Git/GH](05-git.Rmd)
+- [X] [Git/GH](05-git.Rmd)
 - [ ] [Intro OSF](06-osf.Rmd)
 - [ ] [Intro DMP](07-dmp.Rmd)
 
