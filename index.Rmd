@@ -10,6 +10,8 @@ always_allow_html: yes
 output:
   bookdown::gitbook:
     css: [style.css]
+    includes:
+      after_body: analytics.html
     config:
       toc:
         before: |
